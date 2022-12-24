@@ -31,6 +31,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 # Overlays
 PRODUCT_PACKAGES += \
     ApertureResTarget \
+    EvolutionSystemUIResTarget \
+    OPlusExtrasResTarget \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget
